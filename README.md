@@ -1,0 +1,2 @@
+# snap.js
+jQuery Extension
