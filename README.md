@@ -10,7 +10,7 @@ SnapJS is by no means finished, so it is not hosted by a CDN yet.
 
 ### Documentation
 
-The official SnapJS documentation is not available yet, but will be soon.
+You can access the available (in progress) documentation [on the Wiki page](https://github.com/stingclaw/snap.js/wiki).
 
 ### Troubleshooting
 
